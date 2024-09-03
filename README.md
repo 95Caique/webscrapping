@@ -4,9 +4,6 @@
 2 - Navegue até a pasta do projeto:
     cd webscrapping
 
-    (crio uma pasta Projects e todos os meus projetos estão nela
-    por organização, este é o caminho: caique-CS:~/Projects/webscrapping$)
-
 3 - No terminal, crie uma venv ( ambiente virtual ) 
    python -m venv venv
 
@@ -21,10 +18,10 @@
 7 - Rode o projeto com python scrapping.py e irá rodar e aparecer ao lado o arquivo:
     'resultados_busca_google.xlsx'
 
-Licença
+Licença:
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-Contribuição
+Contribuição:
 Se você deseja contribuir para este projeto, será de grande valia, por favor faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
 
 
